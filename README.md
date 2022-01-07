@@ -17,14 +17,22 @@ This repo contains instructions for installing the Unity project locally.
 3. Open up the GitHub Desktop app and log into your account.
 4. In GitHub Desktop, navigate to `File > Add local repository...` at the top.
 Find the folder where you cloned the repo and choose the folder named `capstone` to be the local path. The local path should end in `\capstone`. After the local path has been chosen, click the `Add repository` button.
+
 ![Image 01][image01]
+
 5. In this screen, GitHub Desktop will show all of the file differences when you start making changes to the project.
+
 ![Image 02][image02]
+
 6. Open up the Unity Hub app.
 7. In Unity Hub under the `Projects` tab, click the `Open` button. Find the folder where you cloned the repo and inside of the `capstone` folder, choose the folder named `Tower Defense` as the folder to open. Unity Hub will add the `Tower Defense` project and open it.
+
 ![Image 03][image03]
+
 8. When Unity Hub has finished opening the project in the Unity Editor, navigate to `Edit > Project Settings...` at the top. Under the `Editor` tab, find `Asset Serialization` and make sure `Mode` is set to `Force Text`. Under the `Version Control` tab, make sure `Mode` and is set to `Visible Meta Files`.
+
 ![Image 04][image04]
+
 ![Image 05][image05]
 
 [image01]: docs/images/image01.png
