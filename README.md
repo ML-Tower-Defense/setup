@@ -32,7 +32,7 @@ Find the folder where you cloned the repo and choose the folder named `capstone`
 
 ![Image 03][image03]
 
-8. When Unity Hub has finished opening the project in the Unity Editor, navigate to `Edit > Project Settings...` at the top. Under the `Editor` tab, find `Asset Serialization` and make sure `Mode` is set to `Force Text`. Under the `Version Control` tab, make sure `Mode` and is set to `Visible Meta Files`.
+8. When Unity Hub has finished opening the project in the Unity Editor, navigate to `Edit > Project Settings...` at the top. Under the `Editor` tab, find `Asset Serialization` and make sure `Mode` is set to `Force Text`. Under the `Version Control` tab, make sure `Mode` is set to `Visible Meta Files`.
 
 ![Image 04][image04]
 
